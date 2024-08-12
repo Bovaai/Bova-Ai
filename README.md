@@ -1,6 +1,5 @@
 # Bova AI
 
-[![Bova AI Logo]](https://example.com/bova-ai-logo.png)
 
 Bova AI is a revolutionary Web3 browsing platform that rewards you for your time and attention online.
 
@@ -28,10 +27,6 @@ Bova AI is a revolutionary Web3 browsing platform that rewards you for your time
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to the Bova AI project, please read our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
