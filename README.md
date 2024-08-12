@@ -1,29 +1,29 @@
 # Bova AI
 
-[![Bova AI Logo]](https://cdn.prod.website-files.com/665203ca04f06a1e8e32c74a/6654fad7c40a117b8ae75a8b_logowebsite%20(1)-p-500.png)
+[![Bova AI Logo]](https://example.com/bova-ai-logo.png)
 
-Bova AI is a revolutionary Web3 browsing platform that empowers users with AI-driven tools and rewards them for their engagement.
+Bova AI is a revolutionary Web3 browsing platform that rewards you for your time and attention online.
 
 ## Features
 
 *   **Bova AI Browser Extension** 
-    *   Earn $BOVA tokens passively while browsing the web
-    *   Access AI-powered tools for intelligent search and personalized recommendations
+    *   Earn $BOVA tokens passively as you browse the web
     *   Seamlessly integrate with Web3 applications and manage your crypto assets
 
-*   **Bova Browser (Coming Soon)** 
+*   **Bova AI Browser** 
     *   A fully integrated, AI-powered browser built for Web3
-    *   Enhanced privacy, security, and earning potential
+    *   Enhanced privacy, security, and a more intelligent browsing experience
 
 ## Getting Started
 
 1.  **Install the Bova AI Extension:**
-    *   Download the extension from the [Chrome Web Store]([https://chrome.google.com/webstore/](https://chrome.google.com/webstore/)) or [Firefox Add-ons]([https://addons.mozilla.org/](https://addons.mozilla.org/)).
+    *   Download the extension from the [Chrome Web Store]( https://chromewebstore.google.com/detail/bovaai/liddhjnmllnikmnmcgcljoadldkablfh?hl=en ) .
     *   Create or connect your Web3 wallet.
     *   Start browsing and earning $BOVA tokens!
 
-2.  **Stay Tuned for the Bova Browser:**
-    *   Follow us on social media for updates on the Bova Browser launch.
+2.  **Experience the Bova AI Browser:**
+    *   Download the Bova AI Browser from our [website]([https://bovaai.app/]).
+    *   Enjoy a faster, more secure, and AI-enhanced browsing experience.
 
 ## Contributing
 
@@ -41,4 +41,4 @@ If you have any questions or feedback, please feel free to reach out to us:
 *   **Twitter:** [@bovaai_eth](https://x.com/bovaai_eth)
 *   **Telegram:** [https://t.me/BovaAiPortal](https://t.me/BovaAiPortal)
 
-**Join the Bova AI community and be part of the Web3 revolution!**
+**Join the Bova AI community and start earning today!**
